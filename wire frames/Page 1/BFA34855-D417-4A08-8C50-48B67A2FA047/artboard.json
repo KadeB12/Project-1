@@ -9,6 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "BFA34855-D417-4A08-8C50-48B67A2FA047",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +27,12 @@
     "do_objectID": "4103E8BA-6B9C-4B87-B8C0-C682F07297D7",
     "height": 667,
     "width": 375,
-    "x": -29,
+    "x": -116,
     "y": -234
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -84,7 +86,7 @@
     "gutterWidth": 5.583333333333333,
     "guttersOutside": true,
     "horizontalOffset": 10,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 355

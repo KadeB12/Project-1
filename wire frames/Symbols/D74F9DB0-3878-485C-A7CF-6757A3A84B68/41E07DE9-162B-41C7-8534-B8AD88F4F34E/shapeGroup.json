@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": true,
     "height": 64,
-    "width": 267,
-    "x": 0,
+    "width": 203,
+    "x": 32,
     "y": 0
   },
   "hasClickThrough": false,
@@ -27,16 +27,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "oval",
-      "id": "85ED1156-780B-43C8-A50F-585E010E0395"
-    },
-    {
-      "class": "oval",
-      "id": "97C61D32-A206-4FE9-9D67-5ADDEBC7D687"
-    },
     {
       "class": "rectangle",
       "id": "7F63819A-5303-480D-839F-0B2055817F59"
